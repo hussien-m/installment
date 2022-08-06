@@ -3,7 +3,9 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
 
-
+Route::get('test',function(){
+    return "Ok";
+});
 
 Route::group(['prefix' => LaravelLocalization::setLocale()], function()
 {
