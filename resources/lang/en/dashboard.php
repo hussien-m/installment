@@ -1,0 +1,30 @@
+<?php 
+
+return [
+
+    'dashboard' => 'Dashboard',
+    'logout' => 'Logout',
+    'edit-profile' => 'Edit Profile',
+    'my-order' => 'My Order',
+    'general' => 'General',
+    'customer-balance' => 'Customer Balance',
+    'Total Amount' => 'Total Amount',
+    'Pay Amount' => 'Pay Amount',
+    'Due/Paid' => 'Due/Paid',
+    'Action' => 'Action',
+    'view' => 'View',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+];
