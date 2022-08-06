@@ -35,9 +35,6 @@ Route::get('contact-us',['as'=>'contact-us','uses'=>'HomeController@getContact']
 
 
 
-    Route::get('test',function(){
-        return 5;
-    });
 
     Route::get('cron-fire',['as'=>'cron-fire','uses'=>'HomeController@submitCronJob']);
 
